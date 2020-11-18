@@ -39,7 +39,7 @@ namespace UTS
                 try
                 {
                     using (var conn = new Connection().CreateAndOpenConnection())
-                    {
+                    { 
                         using (var cmd = new SqlCommand())
                         {
                             cmd.Connection = conn;

@@ -120,7 +120,7 @@
             // 
             this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
             this.idDataGridViewTextBoxColumn.HeaderText = "id";
-            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.Name = "id";
             this.idDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // Name

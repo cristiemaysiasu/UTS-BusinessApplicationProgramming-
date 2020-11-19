@@ -120,7 +120,7 @@
             // 
             this.id.DataPropertyName = "id";
             this.id.HeaderText = "id";
-            this.idColumn.Name = "id";
+            this.id.Name = "id";
             this.id.ReadOnly = true;
             // 
             // Name
